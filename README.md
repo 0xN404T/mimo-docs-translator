@@ -41,3 +41,15 @@ python translate.py README.md Indonesian > README.id.md
 
 ## Why Xiaomi MiMo
 MiMo can support multilingual technical documentation workflows for global developer communities.
+
+## Project Maturity
+- MVP code available
+- Architecture documented
+- Roadmap documented
+- CI configured
+- MIT licensed
+
+## Links
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Examples](examples/basic.md)
