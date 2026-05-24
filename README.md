@@ -1,17 +1,15 @@
-# MiMo Docs Translator
+# mimo-docs-translator
 
-AI documentation translator and summarizer powered by Xiaomi MiMo.
+Real prototype for Xiaomi MiMo 100T creator program.
 
-## Features
-- Translates technical docs between English, Indonesian, and Chinese
-- Keeps Markdown formatting
-- Summarizes long documentation
-- Generates developer-friendly quickstarts
+## Purpose
+This project demonstrates practical Xiaomi MiMo API usage for developer workflows.
 
-## Tech Stack
-- Python
-- Markdown parser
-- Xiaomi MiMo API
+## Run
+See source files and `.env.example`.
 
 ## Status
-Prototype planned for Xiaomi MiMo 100T creator program.
+Working MVP skeleton with real code paths, environment config, and CLI/API entrypoints.
+
+## Author
+0xN404T
