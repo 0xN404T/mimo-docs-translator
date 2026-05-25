@@ -53,3 +53,14 @@ MiMo can support multilingual technical documentation workflows for global devel
 - [Architecture](ARCHITECTURE.md)
 - [Roadmap](ROADMAP.md)
 - [Examples](examples/basic.md)
+
+## Deploy on Vercel
+
+This project is designed to be deployable on Vercel for quick Xiaomi MiMo testing without VPS setup.
+
+- Import this repository into Vercel.
+- Set `MIMO_API_KEY` in environment variables.
+- Deploy and use the generated Vercel URL as the API/webhook endpoint.
+
+See [`VERCEL.md`](./VERCEL.md) for full deployment steps.
+
